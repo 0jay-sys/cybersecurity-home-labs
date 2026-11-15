@@ -1,27 +1,32 @@
 # CompTIA Security+ Practical Home Labs
 Welcome to my hands-on cybersecurity portfolio. This repository documents the practical implementations and environments I engineered to simulate enterprise Tier 1 SOC, OCC, and NOC environments.
 
----
-
-## 🧪 Project 1: Enterprise SIEM Log Aggregation & Triage (Wazuh Cloud)
+## 🧪 Project 1: Enterprise SIEM Log Aggregation & Triage (Splunk Cloud)
 ### Objective
-To architect a cloud-hosted SIEM environment to securely ingest local endpoint telemetry, analyze system events, and triage live security alerts.
+To operate a cloud-hosted enterprise SIEM environment to ingest system telemetry, execute Search Processing Language (SPL) queries, and triage security and operational anomalies.
 
 ### Environment & Tools
-*   **SIEM Platform:** Wazuh Cloud (Enterprise Open-Source SIEM)
-*   **Target Endpoint:** Personal Host Machine (Windows)
-*   **Log Forwarder:** Lightweight Wazuh Monitoring Agent
+*   **SIEM Platform:** Splunk Cloud Platform
+*   **Query Language:** Splunk Search Processing Language (SPL)
+*   **Log Sources:** Internal System Telemetry & Authentication Logs
 
 ### Implementation Steps
-1. Deployed an enterprise-ready tenant via the Wazuh Cloud dashboard.
-2. Installed and initialized the lightweight monitoring agent locally via administrative terminal commands.
-3. Successfully established a secure cryptographic log pipeline forwarding endpoint event logs to the cloud.
-4. Simulated a brute-force authentication attack by intentionally generating multiple failed system login events.
+1. Provisioned and administered an enterprise tenant on **Splunk Cloud Platform**.
+2. Executed targeted **SPL queries** (`index=_internal error OR failed`) to filter high-volume telemetry streams and isolate system errors and failed authentication events.
+3. Analyzed event timeline distributions and raw JSON log payloads to establish baseline anomaly triage workflows.
 
 ### Project Artifacts
-*(Paste SIEM Dashboard Alert Screenshot Here)*
+**1. Splunk Cloud Event Ingestion & SPL Log Triage**
 
----
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/985e43e5-07e4-4e5b-96a1-0dd150b219c7" />
+
+
+
+
+
+
+
 
 ## 🧪 Project 2: Network Protocol Diagnostics & Deep Packet Analysis (Wireshark)
 ### Objective
