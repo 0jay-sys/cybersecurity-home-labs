@@ -38,16 +38,19 @@ To capture, filter, and perform deep-packet analysis on live network traffic str
 4. Audited **ICMP traffic** timestamps to baseline regular network echoes against intense scanning signatures.
 
 ### Project Artifacts
-*(Paste TCP Handshake Screenshot Here)*
+**1. TCP 3-Way Handshake Isolation (`tcp.flags.syn == 1`)**
+
 
 <img width="1000" height="685" alt="image" src="https://github.com/user-attachments/assets/094afd97-9eb7-4757-9007-d6fc1ff6c120" />
 
-*(Paste HTTP Cleartext Password Screenshot Here)*
+**2. Unencrypted HTTP POST Stream Analysis**
+
 
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8c19ce85-c335-45bc-b376-20a67eb19812" />
 
-*(Paste ICMP Ping Screenshot Here)*
+**3. ICMP Echo Request/Reply Traffic Baseline (`icmp`)**
+
 
 <img width="1000" height="685" alt="image" src="https://github.com/user-attachments/assets/0addadb4-f63d-478c-9fd4-75f02184f075" />
 
