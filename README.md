@@ -39,6 +39,9 @@ To capture, filter, and perform deep-packet analysis on live network traffic str
 
 ### Project Artifacts
 *(Paste TCP Handshake Screenshot Here)*
+
+<img width="1000" height="685" alt="image" src="https://github.com/user-attachments/assets/094afd97-9eb7-4757-9007-d6fc1ff6c120" />
+
 *(Paste HTTP Cleartext Password Screenshot Here)*
 
 
