@@ -20,6 +20,8 @@ To operate a cloud-hosted enterprise SIEM environment to ingest system telemetry
 
 
 <img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/b6b59e79-db82-4cea-b296-7f44c5749de6" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/41e932d6-fea7-41b8-a227-41d22dad396f" />
+
 
 
 
