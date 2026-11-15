@@ -48,3 +48,6 @@ To capture, filter, and perform deep-packet analysis on live network traffic str
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8c19ce85-c335-45bc-b376-20a67eb19812" />
 
 *(Paste ICMP Ping Screenshot Here)*
+
+<img width="1000" height="685" alt="image" src="https://github.com/user-attachments/assets/0addadb4-f63d-478c-9fd4-75f02184f075" />
+
