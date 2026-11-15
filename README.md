@@ -40,6 +40,7 @@ To capture, filter, and perform deep-packet analysis on live network traffic str
 ### Project Artifacts
 *(Paste TCP Handshake Screenshot Here)*
 *(Paste HTTP Cleartext Password Screenshot Here)*
+
 <img width="760" height="685" alt="image" src="https://github.com/user-attachments/assets/8c19ce85-c335-45bc-b376-20a67eb19812" />
 
 *(Paste ICMP Ping Screenshot Here)*
