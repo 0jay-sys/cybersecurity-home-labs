@@ -19,7 +19,8 @@ To operate a cloud-hosted enterprise SIEM environment to ingest system telemetry
 **1. Splunk Cloud Event Ingestion & SPL Log Triage**
 
 
-<img width="1358" height="682" alt="image" src="https://github.com/user-attachments/assets/69263f3b-6893-4cd4-8165-921e8c703000" />
+<img width="1358" height="682" alt="image" src="https://github.com/user-attachments/assets/f0d751b5-ffed-4c19-9b86-21bb9a755d5c" />
+
 
 
 
