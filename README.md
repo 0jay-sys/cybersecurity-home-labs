@@ -1,6 +1,8 @@
 # CompTIA Security+ Practical Home Labs
 Welcome to my hands-on cybersecurity portfolio. This repository documents the practical implementations and environments I engineered to simulate enterprise Tier 1 SOC, OCC, and NOC environments.
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f8cd92b5-ee9b-4078-9323-b9449398aa60" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## 🧪 Project 1: Enterprise SIEM Log Aggregation & Triage (Splunk Cloud)
 ### Objective
 To operate a cloud-hosted enterprise SIEM environment to ingest system telemetry, execute Search Processing Language (SPL) queries, and triage security and operational anomalies.
